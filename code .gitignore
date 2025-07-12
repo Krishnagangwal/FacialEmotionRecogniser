@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model checkpoints or large files
+*.h5
+*.keras
+
+# VS Code settings
+.vscode/
+
+training_data/fer2013.csv
